@@ -1,2 +1,2 @@
 # randomBoxes
-Sample Maya Plugin
+Sample Maya Plugin for TinUp
